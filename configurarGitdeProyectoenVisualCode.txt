@@ -1,0 +1,6 @@
+git push remote
+git config --global --add safe.directory E:/webapp/angular-adv/03-adminpro( o el directorio en cuestion)
+git config --global user.name "crearwebdesign"
+git config --global user.password "Kalua$01"
+
+en el id de visual code darle a Iniciar repositorio en menu lateral 
